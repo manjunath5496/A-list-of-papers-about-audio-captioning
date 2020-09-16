@@ -14,7 +14,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(4).pdf" style="text-decoration:none;">Automated Audio Captioning</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(5).pdf" style="text-decoration:none;">Task 6 DCASE 2020: Listen Carefully and Tell: An Audio Captioning System Based on Residual Learning and Gammatone Audio Representation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(6).pdf" style="text-decoration:none;">IRIT-UPS DCASE 2020 audio captioning system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(7).pdf" style="text-decoration:none;">AUTOMATED AUDIO CAPTIONING</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(7).pdf" style="text-decoration:none;">
+Automated Audio Captioning with Recurrent Neural Networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(8).pdf" style="text-decoration:none;"> Audio Captioning With The Transformer</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/A-list-of-papers-about-audio-captioning/blob/master/au(9).pdf" style="text-decoration:none;">Automated Audio Captioning With Temporal Attention</a></li>
